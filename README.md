@@ -17,3 +17,8 @@ Features of the Website :
 and a lot more!
 
 This project is completely free for any kind of use! Enjoy!
+
+
+Here is the live server link of this project : https://hominid-ride.000webhostapp.com
+
+Here is the link for the admin panel : https://hominid-ride.000webhostapp.com/admin
